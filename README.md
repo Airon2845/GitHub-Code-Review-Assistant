@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Code Review Assistant V0.0
+# AI-Powered Code Review Assistant V0.0
 
 **Automated code reviewer** for GitHub Pull Requests. Finds critical errors, security vulnerabilities, and code quality issues using static analysis and AI.
 
